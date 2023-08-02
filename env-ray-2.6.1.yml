@@ -1,0 +1,8 @@
+name: pytest-caplog-ray-2.6.1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - ray-all==2.6.1
+  - pytest
